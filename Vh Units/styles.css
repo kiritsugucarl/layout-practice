@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.fullscreen {
+    width: 100%;
+    height: 100vh;
+    padding: 0.1vh;
+}
+
+.sect1 {
+    background: url(bg1.jpg) center/cover;
+}
+
+.sect2 {
+    background: url(bg2.jpg) center/cover;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 35vh;
+}
